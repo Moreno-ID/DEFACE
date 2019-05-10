@@ -18,7 +18,7 @@ cyan='\e[1;36m'
 red='\e[1;31m'
 green="\033[32;1m"
 
-cowsay -f eyes "M0R3N0" | lolcat
+cowsay -f tux "Welcome To Deface" | lolcat
 figlet -f slant "M0R3N0" | lolcat
 echo "    <=====================[]====================>" | lolcat
 echo "    <=====[       Tools By M0R3N0       ]=======>" | lolcat
@@ -101,7 +101,7 @@ echo "http://tressor.co.za" | lolcat
 ;;
 99) echo "Autor : M0R3N0" | lolcat
 echo "WhatsApp : +6285332814651" | lolcat
-echo "Facebook : facebook.com/Moreno ID" | lolcat
+echo "Facebook : Moreno ID" | lolcat
 figlet -f slant "M0R3N0" | lolcat
 echo 'Selamat Bertemu Lain Waktu bye :)' | lolcat
 exit
