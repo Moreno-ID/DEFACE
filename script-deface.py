@@ -4,12 +4,12 @@
 #######################
 mess = """--------------------------------------------
 |            Script Deface                 |
-|            Author: M0R3N0                |
+|            Author: GUS10N                |
 |            FB    : Moreno ID             |
 --------------------------------------------"""
 
 print mess
-print "Created by M0R3N0"
+print "Created by GUS10N"
 title = raw_input("Judul title: ")
 heading = raw_input("Hacked by: ")
 imagelink = raw_input("link gambar (tengah): ")
