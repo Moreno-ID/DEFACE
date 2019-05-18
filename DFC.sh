@@ -19,9 +19,9 @@ red='\e[1;31m'
 green="\033[32;1m"
 
 cowsay -f tux "Welcome To Deface" | lolcat
-figlet -f slant "M0R3N0" | lolcat
+figlet -f slant "GUS10N" | lolcat
 echo "    <=====================[]====================>" | lolcat
-echo "    <=====[       Tools By M0R3N0       ]=======>" | lolcat
+echo "    <=====[       Tools By GUS10N       ]=======>" | lolcat
 echo "    <=====[  Concact Me +6285332814651  ]=======>" | lolcat
 echo "    <=====[   Facebook : Moreno ID      ]=======>" | lolcat
 echo "    <=====================[]====================>" | lolcat
@@ -99,10 +99,10 @@ echo "http://thegiftstore.co.za" | lolcat
 echo "http://thefoundation.co.za" | lolcat
 echo "http://tressor.co.za" | lolcat
 ;;
-99) echo "Autor : M0R3N0" | lolcat
+99) echo "Autor : GUS10N" | lolcat
 echo "WhatsApp : +6285332814651" | lolcat
 echo "Facebook : Moreno ID" | lolcat
-figlet -f slant "M0R3N0" | lolcat
+figlet -f slant "GUS10N" | lolcat
 echo 'Selamat Bertemu Lain Waktu bye :)' | lolcat
 exit
 ;;
