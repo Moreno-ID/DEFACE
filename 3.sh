@@ -20,9 +20,9 @@ red='\e[1;31m'
 green="\033[32;1m"
 cd /data/data/com.termux/files/home
 cowsay -f tux "Welcome To Deface" | lolcat
-figlet -f slant "M0R3N0" | lolcat
+figlet -f slant "GUS10N" | lolcat
 echo "    <=====================[]====================>" | lolcat
-echo "    <=====[       Tools By M0R3N0       ]=======>" | lolcat
+echo "    <=====[       Tools By GUS10N       ]=======>" | lolcat
 echo "    <=====[  Concact Me +6285332814651  ]=======>" | lolcat
 echo "    <=====[   Facebook : Moreno ID      ]=======>" | lolcat
 echo "    <=====================[]====================>" | lolcat
