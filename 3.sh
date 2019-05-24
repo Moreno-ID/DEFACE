@@ -19,13 +19,23 @@ cyan='\e[1;36m'
 red='\e[1;31m'
 green="\033[32;1m"
 cd /data/data/com.termux/files/home
-cowsay -f tux "Welcome To Deface" | lolcat
-figlet -f slant "GUS10N" | lolcat
-echo "    <=====================[]====================>" | lolcat
-echo "    <=====[       Tools By GUS10N       ]=======>" | lolcat
-echo "    <=====[  Concact Me +6285332814651  ]=======>" | lolcat
-echo "    <=====[   Facebook : Moreno ID      ]=======>" | lolcat
-echo "    <=====================[]====================>" | lolcat
+echo "卐卐卐卐卐卐        卐
+          卐        卐
+          卐        卐
+          卐        卐
+          卐        卐
+卐卐卐卐卐卐卐卐卐卐卐
+卐        卐
+卐        卐
+卐        卐
+卐        卐
+卐        卐卐卐卐卐卐" |lolcat -a -d 10
+echo "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" |lolcat -a -d 10
+echo "Name    : 3RR0R" |lolcat -a -d 10
+echo "Github  : Moreno-ID" |lolcat -a -d 10
+echo "Wa      : 085332814651" |lolcat -a -d 10
+echo "Fb      : Moreno ID" |lolcat -a -d 10
+echo "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" |lolcat -a -d 10
 sleep 1
 ###################################################
 # CTRL + C
