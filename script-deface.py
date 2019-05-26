@@ -1,6 +1,6 @@
 #!/usr/bin/python
 mess = """xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-Name    : 3RR0R
+Name    : Mr.MOC
 Github  : Moreno-ID
 Wa      : 085332814651
 Fb      : Moreno ID
